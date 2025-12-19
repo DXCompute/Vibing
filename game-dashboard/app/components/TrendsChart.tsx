@@ -120,7 +120,7 @@ export default function TrendsChart({ data }: { data: Point[] }) {
               style={{ fontSize: "12px" }}
             />
             <Tooltip
-              formatter={(value: number) => formatNumber(value)}
+              formatter={(value: number | undefined) => value ? formatNumber(value) : ''}
               labelFormatter={(label: string) => formatShortDate(label)}
               contentStyle={{
                 backgroundColor: "rgba(15, 23, 42, 0.9)",
