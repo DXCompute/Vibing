@@ -1,0 +1,521 @@
+[
+  {
+    "id": "player_001",
+    "displayName": "ShadowReaper",
+    "handle": "@shadowreaper",
+    "avatarUrl": "/avatars/1.png",
+    "wallet": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb",
+    "level": 45,
+    "wins": 328,
+    "losses": 142,
+    "missionsCompleted": 892,
+    "lootboxesOpened": 456,
+    "lastSeen": "2025-12-18T22:15:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T21:30:00Z", "mode": "PvP", "result": "win", "mission": "Razor Core" },
+      { "ts": "2025-12-18T20:45:00Z", "mode": "PvE", "result": "win", "mission": "Void Strike" },
+      { "ts": "2025-12-18T19:20:00Z", "mode": "PvP", "result": "loss", "mission": "Nova Assault" },
+      { "ts": "2025-12-18T18:10:00Z", "mode": "PvE", "result": "win", "mission": "Razor Core" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 12, "missions": 35, "lootboxes": 18 },
+      { "date": "2025-12-13", "wins": 15, "missions": 42, "lootboxes": 22 },
+      { "date": "2025-12-14", "wins": 18, "missions": 38, "lootboxes": 20 },
+      { "date": "2025-12-15", "wins": 14, "missions": 45, "lootboxes": 25 },
+      { "date": "2025-12-16", "wins": 16, "missions": 40, "lootboxes": 21 },
+      { "date": "2025-12-17", "wins": 19, "missions": 48, "lootboxes": 28 },
+      { "date": "2025-12-18", "wins": 21, "missions": 52, "lootboxes": 30 }
+    ]
+  },
+  {
+    "id": "player_002",
+    "displayName": "CyberNova",
+    "handle": "@cybernova",
+    "avatarUrl": "/avatars/2.png",
+    "wallet": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    "level": 42,
+    "wins": 312,
+    "losses": 156,
+    "missionsCompleted": 845,
+    "lootboxesOpened": 423,
+    "lastSeen": "2025-12-18T23:05:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T22:50:00Z", "mode": "PvP", "result": "win", "mission": "Nova Assault" },
+      { "ts": "2025-12-18T21:30:00Z", "mode": "PvP", "result": "loss", "mission": "Razor Core" },
+      { "ts": "2025-12-18T20:15:00Z", "mode": "PvE", "result": "win", "mission": "Void Strike" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 11, "missions": 32, "lootboxes": 16 },
+      { "date": "2025-12-13", "wins": 13, "missions": 38, "lootboxes": 19 },
+      { "date": "2025-12-14", "wins": 15, "missions": 35, "lootboxes": 18 },
+      { "date": "2025-12-15", "wins": 12, "missions": 40, "lootboxes": 22 },
+      { "date": "2025-12-16", "wins": 14, "missions": 37, "lootboxes": 20 },
+      { "date": "2025-12-17", "wins": 17, "missions": 42, "lootboxes": 24 },
+      { "date": "2025-12-18", "wins": 18, "missions": 45, "lootboxes": 26 }
+    ]
+  },
+  {
+    "id": "player_003",
+    "displayName": "PhantomStrike",
+    "handle": "@phantomstrike",
+    "avatarUrl": "/avatars/3.png",
+    "level": 38,
+    "wins": 289,
+    "losses": 178,
+    "missionsCompleted": 756,
+    "lootboxesOpened": 389,
+    "lastSeen": "2025-12-18T21:45:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T21:20:00Z", "mode": "PvE", "result": "win", "mission": "Razor Core" },
+      { "ts": "2025-12-18T19:50:00Z", "mode": "PvP", "result": "loss", "mission": "Nova Assault" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 10, "missions": 28, "lootboxes": 15 },
+      { "date": "2025-12-13", "wins": 12, "missions": 32, "lootboxes": 17 },
+      { "date": "2025-12-14", "wins": 11, "missions": 30, "lootboxes": 16 },
+      { "date": "2025-12-15", "wins": 13, "missions": 35, "lootboxes": 19 },
+      { "date": "2025-12-16", "wins": 15, "missions": 33, "lootboxes": 18 },
+      { "date": "2025-12-17", "wins": 14, "missions": 37, "lootboxes": 20 },
+      { "date": "2025-12-18", "wins": 16, "missions": 40, "lootboxes": 22 }
+    ]
+  },
+  {
+    "id": "player_004",
+    "displayName": "NeonBlade",
+    "handle": "@neonblade",
+    "avatarUrl": "/avatars/4.png",
+    "wallet": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "level": 40,
+    "wins": 295,
+    "losses": 165,
+    "missionsCompleted": 812,
+    "lootboxesOpened": 401,
+    "lastSeen": "2025-12-18T20:30:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T20:10:00Z", "mode": "PvP", "result": "win", "mission": "Void Strike" },
+      { "ts": "2025-12-18T18:45:00Z", "mode": "PvE", "result": "win", "mission": "Razor Core" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 11, "missions": 30, "lootboxes": 16 },
+      { "date": "2025-12-13", "wins": 13, "missions": 34, "lootboxes": 18 },
+      { "date": "2025-12-14", "wins": 14, "missions": 32, "lootboxes": 17 },
+      { "date": "2025-12-15", "wins": 12, "missions": 36, "lootboxes": 20 },
+      { "date": "2025-12-16", "wins": 15, "missions": 35, "lootboxes": 19 },
+      { "date": "2025-12-17", "wins": 16, "missions": 38, "lootboxes": 21 },
+      { "date": "2025-12-18", "wins": 17, "missions": 42, "lootboxes": 24 }
+    ]
+  },
+  {
+    "id": "player_005",
+    "displayName": "VoidWalker",
+    "handle": "@voidwalker",
+    "avatarUrl": "/avatars/5.png",
+    "level": 37,
+    "wins": 267,
+    "losses": 189,
+    "missionsCompleted": 723,
+    "lootboxesOpened": 365,
+    "lastSeen": "2025-12-18T19:15:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T18:50:00Z", "mode": "PvE", "result": "win", "mission": "Nova Assault" },
+      { "ts": "2025-12-18T17:30:00Z", "mode": "PvP", "result": "loss", "mission": "Razor Core" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 9, "missions": 26, "lootboxes": 14 },
+      { "date": "2025-12-13", "wins": 11, "missions": 30, "lootboxes": 16 },
+      { "date": "2025-12-14", "wins": 10, "missions": 28, "lootboxes": 15 },
+      { "date": "2025-12-15", "wins": 12, "missions": 32, "lootboxes": 18 },
+      { "date": "2025-12-16", "wins": 13, "missions": 31, "lootboxes": 17 },
+      { "date": "2025-12-17", "wins": 14, "missions": 34, "lootboxes": 19 },
+      { "date": "2025-12-18", "wins": 15, "missions": 37, "lootboxes": 21 }
+    ]
+  },
+  {
+    "id": "player_006",
+    "displayName": "CrimsonFury",
+    "handle": "@crimsonfury",
+    "avatarUrl": "/avatars/6.png",
+    "wallet": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "level": 43,
+    "wins": 301,
+    "losses": 148,
+    "missionsCompleted": 867,
+    "lootboxesOpened": 438,
+    "lastSeen": "2025-12-18T23:30:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T23:10:00Z", "mode": "PvP", "result": "win", "mission": "Razor Core" },
+      { "ts": "2025-12-18T22:20:00Z", "mode": "PvP", "result": "win", "mission": "Void Strike" },
+      { "ts": "2025-12-18T21:05:00Z", "mode": "PvE", "result": "win", "mission": "Nova Assault" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 12, "missions": 33, "lootboxes": 17 },
+      { "date": "2025-12-13", "wins": 14, "missions": 37, "lootboxes": 20 },
+      { "date": "2025-12-14", "wins": 13, "missions": 35, "lootboxes": 19 },
+      { "date": "2025-12-15", "wins": 15, "missions": 39, "lootboxes": 21 },
+      { "date": "2025-12-16", "wins": 16, "missions": 38, "lootboxes": 22 },
+      { "date": "2025-12-17", "wins": 17, "missions": 41, "lootboxes": 24 },
+      { "date": "2025-12-18", "wins": 19, "missions": 44, "lootboxes": 26 }
+    ]
+  },
+  {
+    "id": "player_007",
+    "displayName": "AstralKnight",
+    "handle": "@astralknight",
+    "avatarUrl": "/avatars/7.png",
+    "level": 35,
+    "wins": 245,
+    "losses": 201,
+    "missionsCompleted": 689,
+    "lootboxesOpened": 342,
+    "lastSeen": "2025-12-18T18:20:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T17:55:00Z", "mode": "PvE", "result": "win", "mission": "Void Strike" },
+      { "ts": "2025-12-18T16:40:00Z", "mode": "PvP", "result": "loss", "mission": "Nova Assault" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 8, "missions": 24, "lootboxes": 13 },
+      { "date": "2025-12-13", "wins": 10, "missions": 28, "lootboxes": 15 },
+      { "date": "2025-12-14", "wins": 9, "missions": 26, "lootboxes": 14 },
+      { "date": "2025-12-15", "wins": 11, "missions": 30, "lootboxes": 17 },
+      { "date": "2025-12-16", "wins": 12, "missions": 29, "lootboxes": 16 },
+      { "date": "2025-12-17", "wins": 13, "missions": 32, "lootboxes": 18 },
+      { "date": "2025-12-18", "wins": 14, "missions": 35, "lootboxes": 20 }
+    ]
+  },
+  {
+    "id": "player_008",
+    "displayName": "EclipseHunter",
+    "handle": "@eclipsehunter",
+    "avatarUrl": "/avatars/8.png",
+    "wallet": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+    "level": 41,
+    "wins": 287,
+    "losses": 172,
+    "missionsCompleted": 798,
+    "lootboxesOpened": 412,
+    "lastSeen": "2025-12-18T22:40:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T22:15:00Z", "mode": "PvP", "result": "win", "mission": "Razor Core" },
+      { "ts": "2025-12-18T21:00:00Z", "mode": "PvE", "result": "win", "mission": "Void Strike" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 11, "missions": 29, "lootboxes": 16 },
+      { "date": "2025-12-13", "wins": 12, "missions": 33, "lootboxes": 18 },
+      { "date": "2025-12-14", "wins": 13, "missions": 31, "lootboxes": 17 },
+      { "date": "2025-12-15", "wins": 14, "missions": 35, "lootboxes": 20 },
+      { "date": "2025-12-16", "wins": 15, "missions": 34, "lootboxes": 19 },
+      { "date": "2025-12-17", "wins": 16, "missions": 37, "lootboxes": 21 },
+      { "date": "2025-12-18", "wins": 17, "missions": 40, "lootboxes": 23 }
+    ]
+  },
+  {
+    "id": "player_009",
+    "displayName": "StormBreaker",
+    "handle": "@stormbreaker",
+    "avatarUrl": "/avatars/9.png",
+    "level": 39,
+    "wins": 278,
+    "losses": 183,
+    "missionsCompleted": 745,
+    "lootboxesOpened": 378,
+    "lastSeen": "2025-12-18T20:10:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T19:45:00Z", "mode": "PvE", "result": "win", "mission": "Nova Assault" },
+      { "ts": "2025-12-18T18:30:00Z", "mode": "PvP", "result": "loss", "mission": "Razor Core" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 10, "missions": 27, "lootboxes": 15 },
+      { "date": "2025-12-13", "wins": 11, "missions": 31, "lootboxes": 17 },
+      { "date": "2025-12-14", "wins": 12, "missions": 29, "lootboxes": 16 },
+      { "date": "2025-12-15", "wins": 13, "missions": 33, "lootboxes": 19 },
+      { "date": "2025-12-16", "wins": 14, "missions": 32, "lootboxes": 18 },
+      { "date": "2025-12-17", "wins": 15, "missions": 35, "lootboxes": 20 },
+      { "date": "2025-12-18", "wins": 16, "missions": 38, "lootboxes": 22 }
+    ]
+  },
+  {
+    "id": "player_010",
+    "displayName": "IronVanguard",
+    "handle": "@ironvanguard",
+    "avatarUrl": "/avatars/10.png",
+    "wallet": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "level": 44,
+    "wins": 318,
+    "losses": 139,
+    "missionsCompleted": 879,
+    "lootboxesOpened": 445,
+    "lastSeen": "2025-12-18T23:45:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T23:20:00Z", "mode": "PvP", "result": "win", "mission": "Void Strike" },
+      { "ts": "2025-12-18T22:05:00Z", "mode": "PvP", "result": "win", "mission": "Razor Core" },
+      { "ts": "2025-12-18T20:50:00Z", "mode": "PvE", "result": "win", "mission": "Nova Assault" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 13, "missions": 34, "lootboxes": 18 },
+      { "date": "2025-12-13", "wins": 15, "missions": 38, "lootboxes": 21 },
+      { "date": "2025-12-14", "wins": 14, "missions": 36, "lootboxes": 20 },
+      { "date": "2025-12-15", "wins": 16, "missions": 40, "lootboxes": 22 },
+      { "date": "2025-12-16", "wins": 17, "missions": 39, "lootboxes": 23 },
+      { "date": "2025-12-17", "wins": 18, "missions": 42, "lootboxes": 25 },
+      { "date": "2025-12-18", "wins": 20, "missions": 45, "lootboxes": 27 }
+    ]
+  },
+  {
+    "id": "player_011",
+    "displayName": "DarkSpecter",
+    "handle": "@darkspecter",
+    "avatarUrl": "/avatars/11.png",
+    "level": 36,
+    "wins": 256,
+    "losses": 194,
+    "missionsCompleted": 701,
+    "lootboxesOpened": 354,
+    "lastSeen": "2025-12-18T17:50:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T17:25:00Z", "mode": "PvE", "result": "win", "mission": "Razor Core" },
+      { "ts": "2025-12-18T16:10:00Z", "mode": "PvP", "result": "loss", "mission": "Void Strike" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 9, "missions": 25, "lootboxes": 14 },
+      { "date": "2025-12-13", "wins": 10, "missions": 29, "lootboxes": 16 },
+      { "date": "2025-12-14", "wins": 11, "missions": 27, "lootboxes": 15 },
+      { "date": "2025-12-15", "wins": 12, "missions": 31, "lootboxes": 18 },
+      { "date": "2025-12-16", "wins": 13, "missions": 30, "lootboxes": 17 },
+      { "date": "2025-12-17", "wins": 14, "missions": 33, "lootboxes": 19 },
+      { "date": "2025-12-18", "wins": 15, "missions": 36, "lootboxes": 21 }
+    ]
+  },
+  {
+    "id": "player_012",
+    "displayName": "FrostByte",
+    "handle": "@frostbyte",
+    "avatarUrl": "/avatars/12.png",
+    "wallet": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "level": 40,
+    "wins": 292,
+    "losses": 167,
+    "missionsCompleted": 823,
+    "lootboxesOpened": 416,
+    "lastSeen": "2025-12-18T21:25:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T21:00:00Z", "mode": "PvP", "result": "win", "mission": "Nova Assault" },
+      { "ts": "2025-12-18T19:45:00Z", "mode": "PvE", "result": "win", "mission": "Razor Core" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 11, "missions": 31, "lootboxes": 17 },
+      { "date": "2025-12-13", "wins": 13, "missions": 35, "lootboxes": 19 },
+      { "date": "2025-12-14", "wins": 12, "missions": 33, "lootboxes": 18 },
+      { "date": "2025-12-15", "wins": 14, "missions": 37, "lootboxes": 21 },
+      { "date": "2025-12-16", "wins": 15, "missions": 36, "lootboxes": 20 },
+      { "date": "2025-12-17", "wins": 16, "missions": 39, "lootboxes": 22 },
+      { "date": "2025-12-18", "wins": 17, "missions": 42, "lootboxes": 24 }
+    ]
+  },
+  {
+    "id": "player_013",
+    "displayName": "TitanSlayer",
+    "handle": "@titanslayer",
+    "avatarUrl": "/avatars/13.png",
+    "level": 38,
+    "wins": 273,
+    "losses": 186,
+    "missionsCompleted": 734,
+    "lootboxesOpened": 371,
+    "lastSeen": "2025-12-18T19:40:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T19:10:00Z", "mode": "PvE", "result": "win", "mission": "Void Strike" },
+      { "ts": "2025-12-18T17:55:00Z", "mode": "PvP", "result": "loss", "mission": "Nova Assault" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 10, "missions": 26, "lootboxes": 15 },
+      { "date": "2025-12-13", "wins": 11, "missions": 30, "lootboxes": 17 },
+      { "date": "2025-12-14", "wins": 12, "missions": 28, "lootboxes": 16 },
+      { "date": "2025-12-15", "wins": 13, "missions": 32, "lootboxes": 19 },
+      { "date": "2025-12-16", "wins": 14, "missions": 31, "lootboxes": 18 },
+      { "date": "2025-12-17", "wins": 15, "missions": 34, "lootboxes": 20 },
+      { "date": "2025-12-18", "wins": 16, "missions": 37, "lootboxes": 22 }
+    ]
+  },
+  {
+    "id": "player_014",
+    "displayName": "BlazeFist",
+    "handle": "@blazefist",
+    "avatarUrl": "/avatars/14.png",
+    "wallet": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+    "level": 42,
+    "wins": 305,
+    "losses": 152,
+    "missionsCompleted": 856,
+    "lootboxesOpened": 431,
+    "lastSeen": "2025-12-18T22:55:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T22:30:00Z", "mode": "PvP", "result": "win", "mission": "Razor Core" },
+      { "ts": "2025-12-18T21:15:00Z", "mode": "PvP", "result": "win", "mission": "Void Strike" },
+      { "ts": "2025-12-18T20:00:00Z", "mode": "PvE", "result": "win", "mission": "Nova Assault" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 12, "missions": 32, "lootboxes": 17 },
+      { "date": "2025-12-13", "wins": 14, "missions": 36, "lootboxes": 20 },
+      { "date": "2025-12-14", "wins": 13, "missions": 34, "lootboxes": 19 },
+      { "date": "2025-12-15", "wins": 15, "missions": 38, "lootboxes": 21 },
+      { "date": "2025-12-16", "wins": 16, "missions": 37, "lootboxes": 22 },
+      { "date": "2025-12-17", "wins": 17, "missions": 40, "lootboxes": 24 },
+      { "date": "2025-12-18", "wins": 18, "missions": 43, "lootboxes": 26 }
+    ]
+  },
+  {
+    "id": "player_015",
+    "displayName": "QuantumShard",
+    "handle": "@quantumshard",
+    "avatarUrl": "/avatars/15.png",
+    "level": 37,
+    "wins": 264,
+    "losses": 191,
+    "missionsCompleted": 712,
+    "lootboxesOpened": 360,
+    "lastSeen": "2025-12-18T18:35:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T18:05:00Z", "mode": "PvE", "result": "win", "mission": "Nova Assault" },
+      { "ts": "2025-12-18T16:50:00Z", "mode": "PvP", "result": "loss", "mission": "Razor Core" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 9, "missions": 25, "lootboxes": 14 },
+      { "date": "2025-12-13", "wins": 10, "missions": 29, "lootboxes": 16 },
+      { "date": "2025-12-14", "wins": 11, "missions": 27, "lootboxes": 15 },
+      { "date": "2025-12-15", "wins": 12, "missions": 31, "lootboxes": 18 },
+      { "date": "2025-12-16", "wins": 13, "missions": 30, "lootboxes": 17 },
+      { "date": "2025-12-17", "wins": 14, "missions": 33, "lootboxes": 19 },
+      { "date": "2025-12-18", "wins": 15, "missions": 36, "lootboxes": 21 }
+    ]
+  },
+  {
+    "id": "player_016",
+    "displayName": "SilverWolf",
+    "handle": "@silverwolf",
+    "avatarUrl": "/avatars/16.png",
+    "wallet": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
+    "level": 41,
+    "wins": 296,
+    "losses": 161,
+    "missionsCompleted": 834,
+    "lootboxesOpened": 419,
+    "lastSeen": "2025-12-18T21:50:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T21:25:00Z", "mode": "PvP", "result": "win", "mission": "Void Strike" },
+      { "ts": "2025-12-18T20:10:00Z", "mode": "PvE", "result": "win", "mission": "Razor Core" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 11, "missions": 30, "lootboxes": 17 },
+      { "date": "2025-12-13", "wins": 13, "missions": 34, "lootboxes": 19 },
+      { "date": "2025-12-14", "wins": 12, "missions": 32, "lootboxes": 18 },
+      { "date": "2025-12-15", "wins": 14, "missions": 36, "lootboxes": 21 },
+      { "date": "2025-12-16", "wins": 15, "missions": 35, "lootboxes": 20 },
+      { "date": "2025-12-17", "wins": 16, "missions": 38, "lootboxes": 22 },
+      { "date": "2025-12-18", "wins": 17, "missions": 41, "lootboxes": 24 }
+    ]
+  },
+  {
+    "id": "player_017",
+    "displayName": "ApexPredator",
+    "handle": "@apexpredator",
+    "avatarUrl": "/avatars/17.png",
+    "level": 39,
+    "wins": 282,
+    "losses": 175,
+    "missionsCompleted": 767,
+    "lootboxesOpened": 387,
+    "lastSeen": "2025-12-18T20:20:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T19:55:00Z", "mode": "PvE", "result": "win", "mission": "Nova Assault" },
+      { "ts": "2025-12-18T18:40:00Z", "mode": "PvP", "result": "loss", "mission": "Void Strike" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 10, "missions": 28, "lootboxes": 16 },
+      { "date": "2025-12-13", "wins": 12, "missions": 32, "lootboxes": 18 },
+      { "date": "2025-12-14", "wins": 11, "missions": 30, "lootboxes": 17 },
+      { "date": "2025-12-15", "wins": 13, "missions": 34, "lootboxes": 20 },
+      { "date": "2025-12-16", "wins": 14, "missions": 33, "lootboxes": 19 },
+      { "date": "2025-12-17", "wins": 15, "missions": 36, "lootboxes": 21 },
+      { "date": "2025-12-18", "wins": 16, "missions": 39, "lootboxes": 23 }
+    ]
+  },
+  {
+    "id": "player_018",
+    "displayName": "CosmicRage",
+    "handle": "@cosmicrage",
+    "avatarUrl": "/avatars/18.png",
+    "wallet": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
+    "level": 43,
+    "wins": 310,
+    "losses": 145,
+    "missionsCompleted": 871,
+    "lootboxesOpened": 441,
+    "lastSeen": "2025-12-18T23:15:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T22:50:00Z", "mode": "PvP", "result": "win", "mission": "Razor Core" },
+      { "ts": "2025-12-18T21:35:00Z", "mode": "PvP", "result": "win", "mission": "Void Strike" },
+      { "ts": "2025-12-18T20:20:00Z", "mode": "PvE", "result": "win", "mission": "Nova Assault" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 12, "missions": 33, "lootboxes": 18 },
+      { "date": "2025-12-13", "wins": 14, "missions": 37, "lootboxes": 21 },
+      { "date": "2025-12-14", "wins": 13, "missions": 35, "lootboxes": 20 },
+      { "date": "2025-12-15", "wins": 15, "missions": 39, "lootboxes": 22 },
+      { "date": "2025-12-16", "wins": 16, "missions": 38, "lootboxes": 23 },
+      { "date": "2025-12-17", "wins": 17, "missions": 41, "lootboxes": 25 },
+      { "date": "2025-12-18", "wins": 18, "missions": 44, "lootboxes": 27 }
+    ]
+  },
+  {
+    "id": "player_019",
+    "displayName": "ThunderStrike",
+    "handle": "@thunderstrike",
+    "avatarUrl": "/avatars/19.png",
+    "level": 36,
+    "wins": 251,
+    "losses": 198,
+    "missionsCompleted": 695,
+    "lootboxesOpened": 349,
+    "lastSeen": "2025-12-18T17:30:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T17:05:00Z", "mode": "PvE", "result": "win", "mission": "Razor Core" },
+      { "ts": "2025-12-18T15:50:00Z", "mode": "PvP", "result": "loss", "mission": "Nova Assault" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 8, "missions": 24, "lootboxes": 13 },
+      { "date": "2025-12-13", "wins": 10, "missions": 28, "lootboxes": 15 },
+      { "date": "2025-12-14", "wins": 9, "missions": 26, "lootboxes": 14 },
+      { "date": "2025-12-15", "wins": 11, "missions": 30, "lootboxes": 17 },
+      { "date": "2025-12-16", "wins": 12, "missions": 29, "lootboxes": 16 },
+      { "date": "2025-12-17", "wins": 13, "missions": 32, "lootboxes": 18 },
+      { "date": "2025-12-18", "wins": 14, "missions": 35, "lootboxes": 20 }
+    ]
+  },
+  {
+    "id": "player_020",
+    "displayName": "OmegaForce",
+    "handle": "@omegaforce",
+    "avatarUrl": "/avatars/20.png",
+    "wallet": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+    "level": 40,
+    "wins": 288,
+    "losses": 169,
+    "missionsCompleted": 809,
+    "lootboxesOpened": 407,
+    "lastSeen": "2025-12-18T21:05:00Z",
+    "recentMatches": [
+      { "ts": "2025-12-18T20:40:00Z", "mode": "PvP", "result": "win", "mission": "Void Strike" },
+      { "ts": "2025-12-18T19:25:00Z", "mode": "PvE", "result": "win", "mission": "Razor Core" }
+    ],
+    "series7d": [
+      { "date": "2025-12-12", "wins": 11, "missions": 29, "lootboxes": 16 },
+      { "date": "2025-12-13", "wins": 12, "missions": 33, "lootboxes": 18 },
+      { "date": "2025-12-14", "wins": 13, "missions": 31, "lootboxes": 17 },
+      { "date": "2025-12-15", "wins": 14, "missions": 35, "lootboxes": 20 },
+      { "date": "2025-12-16", "wins": 15, "missions": 34, "lootboxes": 19 },
+      { "date": "2025-12-17", "wins": 16, "missions": 37, "lootboxes": 21 },
+      { "date": "2025-12-18", "wins": 17, "missions": 40, "lootboxes": 23 }
+    ]
+  }
+]
+

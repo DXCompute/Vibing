@@ -1,0 +1,24 @@
+{
+  "gameDate": "2025-12-18",
+  "missionsCompleted": 128430,
+  "usersTotal": 42190,
+  "avgLevel": 17.4,
+  "lootboxesOpened": 98211,
+  "updatedAt": "2025-12-18T18:58:00Z",
+  "deltas": {
+    "usersTotalPct": 2.4,
+    "missionsCompletedPct": 5.1,
+    "avgLevelPct": 0.6,
+    "lootboxesOpenedPct": -1.2
+  },
+  "series": [
+    { "date": "2025-12-12", "users": 40120, "missions": 12010, "lootboxes": 9010 },
+    { "date": "2025-12-13", "users": 40550, "missions": 12440, "lootboxes": 9400 },
+    { "date": "2025-12-14", "users": 40910, "missions": 12780, "lootboxes": 9605 },
+    { "date": "2025-12-15", "users": 41320, "missions": 13090, "lootboxes": 9802 },
+    { "date": "2025-12-16", "users": 41780, "missions": 13310, "lootboxes": 10040 },
+    { "date": "2025-12-17", "users": 41990, "missions": 13590, "lootboxes": 10121 },
+    { "date": "2025-12-18", "users": 42190, "missions": 13920, "lootboxes": 10305 }
+  ]
+}
+
