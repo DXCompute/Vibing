@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd game-dashboard && npm install && npm run build",
+  "outputDirectory": "game-dashboard/.next",
+  "devCommand": "cd game-dashboard && npm run dev",
+  "framework": "nextjs",
+  "installCommand": "cd game-dashboard && npm install"
+}
